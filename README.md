@@ -1,4 +1,4 @@
-# Esempio_Servlet_Sessione_Maven
+#  Java_Example_Servlet_Sessions
 >  Basic session management with Java servlets
  
 This example shows how the basics of HTTML session management in a Java servlet (HTTPSession class).
@@ -16,6 +16,6 @@ This is a Maven-based project. Simply download the code and open it in any Maven
 
 ---
 
-![University od L'Aquila](https://www.disim.univaq.it/skins/aqua/img/logo2021-2.png)
+![University of L'Aquila](https://www.disim.univaq.it/skins/aqua/img/logo2021-2.png)
 
  
