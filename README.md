@@ -1,7 +1,7 @@
 #  Java_Example_Servlet_Sessions
 >  Basic session management with Java servlets
  
-This example shows how the basics of HTTML session management in a Java servlet (HTTPSession class).
+This example shows how the basics of HTTP session management in a Java servlet (HTTPSession class).
 
 ## Usage
 
